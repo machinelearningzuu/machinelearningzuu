@@ -1,6 +1,6 @@
 ### Hi there 👋, Isuru
 #### Artificial Inteligence Developer
-![Artificial Inteligence Developer](https://media-exp1.licdn.com/dms/image/C5616AQHCrI_2rtxYmQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1611187200&v=beta&t=hvUm48qBFML_KVxLKVSSTpIQeaICbTdcGyABN_uJ7YY)
+![Artificial Inteligence Developer](https://github.com/Zuu97/Zuu97/blob/main/banner.png)
 
 I'm Isuru Alagiyawanna, an undergraduate of Department of Electronic and Telecommunication Engineering, University of Moratuwa.
 
