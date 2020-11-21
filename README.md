@@ -4,9 +4,9 @@
 
 I'm Isuru Alagiyawanna, an undergraduate of Department of Electronic and Telecommunication Engineering, University of Moratuwa.
 
-I am a Artificial Inteligent and Mathematics enthusiasm. I have hands on experience with Modeling, Training, Deploying Deep learning algorithms related to NLP, Computer Vision and Machine Learning algorithms on Cloud and Embedded Systems (TinyML).
+I am a Artificial Inteligent and Mathematics enthusiasm. I have hands on experience with Modeling, Training, Deploying Deep learning algorithms related to NLP, Data Science and Machine Learning algorithms on Cloud and Embedded Systems (TinyML).
 
-Skills: Deep Learning, NLP, Computer Vision, TinyML, Android Development
+Skills: Deep Learning, NLP, Data Science, TinyML, Android Development
 
 
 
