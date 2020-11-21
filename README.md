@@ -1,4 +1,4 @@
-### Hi there 👋, Isuru
+## Hi there 👋, Isuru
 ### Artificial Inteligence Developer
 ![Artificial Inteligence Developer](https://github.com/Zuu97/Zuu97/blob/main/banner.png)
 
@@ -6,7 +6,7 @@ I'm Isuru Alagiyawanna, an undergraduate of Department of Electronic and Telecom
 
 I am a Artificial Inteligent and Mathematics enthusiasm. I have hands on experience with Modeling, Training, Deploying Deep learning and Machine Learning algorithms related to NLP, Data Science, Computer Vision on Mobile Applications and TinyML.
 
-### Skills and Experience: Deep Learning, NLP, Data Science, TinyML, Android Development
+### Skills and Experiences: Deep Learning, NLP, Data Science, TinyML, Android Development
 ![github](https://github.com/Zuu97/Zuu97/blob/main/ai.png)
 ![github](https://github.com/Zuu97/Zuu97/blob/main/deep-learning.png)
 ![github](https://github.com/Zuu97/Zuu97/blob/main/natural-language-processing.png)
