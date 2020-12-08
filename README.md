@@ -7,7 +7,7 @@ I'm Isuru Alagiyawanna, an undergraduate of Department of Electronic and Telecom
 
 I am a Artificial Intelligence and Mathematics enthusiasm. I have hands on experience with Modeling, Training, Deploying Deep learning and Machine Learning algorithms related to NLP, Data Science, Computer Vision on Mobile Applications and Embedded Systems(TinyML).
 
-### Skills and Experiences: Deep Learning, NLP, Data Science, TinyML, Android Development
+### Skills and Experiences: Deep Learning, NLP, Data Science, Internet of Things, TinyML, Android
 ![github](https://github.com/Zuu97/Zuu97/blob/main/ai.png)
 ![github](https://github.com/Zuu97/Zuu97/blob/main/deep-learning.png)
 ![github](https://github.com/Zuu97/Zuu97/blob/main/natural-language-processing.png)
