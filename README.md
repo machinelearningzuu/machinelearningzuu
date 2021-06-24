@@ -1,5 +1,5 @@
 # Hi there 👋, Isuru here
-### 🧑‍💻 ARTIFICIAL INTELLIGENCE DEVELOPER | DATA ENGINEER 🧑‍💻
+### 🧑‍💻  DATA ENGINEER  |  ARTIFICIAL INTELLIGENCE DEVELOPER 🧑‍💻
 ![Artificial Intelligence Developer](https://github.com/1zuu/1zuu/blob/main/banner.png)
 
 ### ABOUT ME 👨‍🎓:
