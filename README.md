@@ -3,7 +3,7 @@
 ![Artificial Intelligence Developer](https://github.com/1zuu/1zuu/blob/main/banner.png)
 
 ### ABOUT ME 👨‍🎓:
-I'm Isuru Alagiyawanna, an undergraduate 🎓 of Department of Electronic and Telecommunication Engineering, University of Moratuwa. 
+I'm Isuru Alagiyawanna, an undergraduate 🎓 of Department of Electronic and Telecommunication Engineering (ENTC), University of Moratuwa. 
 
 Also I work as a Data Engineer at Axiata Digital Labs
 
