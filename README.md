@@ -9,7 +9,7 @@ Also I work as a Data Engineer at Axiata Digital Labs
 
 I am a Artificial Intelligence and Mathematics enthusiasm. I have hands on experience with Modeling, Training, Deploying Deep learning and Machine Learning algorithms related to NLP, Data Science, Computer Vision on Mobile Applications and Embedded Systems(TinyML).
 
-### Skills and Experiences: Deep Learning, NLP, Data Science, Data, Internet of Things, TinyML, Android
+### Skills and Experiences: Deep Learning, NLP, Data Science, Data Engineering, Internet of Things, TinyML, Android
 ![github](https://github.com/1zuu/1zuu/blob/main/ai.png)
 ![github](https://github.com/1zuu/1zuu/blob/main/deep-learning.png)
 ![github](https://github.com/1zuu/1zuu/blob/main/natural-language-processing.png)
