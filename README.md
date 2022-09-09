@@ -1,4 +1,6 @@
-# Hi there 👋, Isuru here
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there,+Isuru+here...)](https://git.io/typing-svg)
+<!--<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>-->
+
 ### 🧑‍💻  DATA ENGINEER  |  ARTIFICIAL INTELLIGENCE DEVELOPER 🧑‍💻
 ![Artificial Intelligence Developer](https://github.com/1zuu/1zuu/blob/main/banner.png)
 
