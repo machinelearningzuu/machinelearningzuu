@@ -44,7 +44,7 @@ I am a Artificial Intelligence and Mathematics enthusiasm. I have hands on exper
 
 <div align=right>
 
-<img src="https://gist.githubusercontent.com/1zuu/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif" width="40" height="40"/>
+<img src="https://gist.githubusercontent.com/ShehaniWageesha/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif" width="40" height="40"/>
 
 ![](https://komarev.com/ghpvc/?username=1zuu&style=for-the-badge)
 
