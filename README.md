@@ -37,3 +37,15 @@ I am a Artificial Intelligence and Mathematics enthusiasm. I have hands on exper
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=1zuu&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Isuru's github stats](https://github-readme-stats.vercel.app/api?username=1zuu&count_private=true&show_icons=true&theme=vision-friendly-dark)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1zuu&layout=compact&theme=vision-friendly-dark)](https://github.com/1zuu/github-readme-stats)
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=1zuu&theme=react-dark&hide_title=false&bg_color=000000&color=FFFFFF&line=FFC000&point=FFC000&hide_border=false)](https://github.com/1zuu/github-readme-activity-graph)
+
+</div>
+
+<div align=right>
+
+<img src="https://gist.githubusercontent.com/1zuu/f5c7c2a6a14f036eb73139b63fd28109/raw/bfdff02230cec37afc085768beacc9873f1292be/GIFparrot.gif" width="40" height="40"/>
+
+![](https://komarev.com/ghpvc/?username=1zuu&style=for-the-badge)
+
+</div>
