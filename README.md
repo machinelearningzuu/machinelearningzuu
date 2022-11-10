@@ -34,11 +34,11 @@
 
 > ### <sup> SKILLS & EXPERIENCES </sup>
 
-:computer: &nbsp; ***Deep Learning*** | ***NLP*** | ***Data Science*** | ***Data Engineering*** | ***Internet of Things*** | ***TinyML*** | ***Android***
+<div align=center>
+  
+***Deep Learning*** | ***NLP*** | ***Data Science*** | ***Data Engineering*** | ***Internet of Things*** | ***TinyML*** | ***Android***
   
 <br/>
-
-<div align=center>
 
 ![github](https://github.com/1zuu/1zuu/blob/main/ai.png)
 ![github](https://github.com/1zuu/1zuu/blob/main/deep-learning.png)
