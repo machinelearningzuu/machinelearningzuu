@@ -25,7 +25,7 @@
 
 :man_student: &nbsp; ***Fresh Graduate in the Department of Electronic & Telecommunication Engineering (ENTC), University of Moratuwa***
 
-:briefcase: &nbsp; ***Working as a Big Data Engineer @ Axiata Digital Labs***
+:briefcase: &nbsp; ***Working as a Data Scientist @ Axiata Digital Labs***
 
 :computer: &nbsp; ***Have hands on experience with Modeling, Training, Deploying Deep learning & Machine Learning algorithms related to NLP, Data Science, Computer Vision on Mobile Applications and Embedded Systems (TinyML)***
 
