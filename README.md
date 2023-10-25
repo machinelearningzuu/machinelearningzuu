@@ -23,7 +23,7 @@
 
 > ### <sup> ABOUT ME </sup>
 
-:man_student: &nbsp; ***Fresh Graduate in the Department of Electronic & Telecommunication Engineering (ENTC), University of Moratuwa***
+:man_student: &nbsp; ***Graduate in the Department of Electronic & Telecommunication Engineering (ENTC), University of Moratuwa***
 
 :briefcase: &nbsp; ***Working as a Data Scientist @ Axiata Digital Labs***
 
