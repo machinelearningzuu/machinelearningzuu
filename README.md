@@ -26,7 +26,7 @@
 :man_student: &nbsp; ***Graduate in the Department of Electronic & Telecommunication Engineering (ENTC), University of Moratuwa***
 
 :briefcase: &nbsp; ***Senior Data Scientist specialized in NLP, NLU, LLM, GraphML, GenAI @ Axiata Digital Labs<br />***
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Assistant Lecturer @ SLIIT<br />***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Assistant Lecturer @ Sri Lanka Institute of Information Technology<br />***
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Former Machine Learning Consultant @ Fcode Labs<br />***
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Public Speaker - Generative AI<br />***
 
