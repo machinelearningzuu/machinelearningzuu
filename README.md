@@ -25,9 +25,12 @@
 
 :man_student: &nbsp; ***Graduate in the Department of Electronic & Telecommunication Engineering (ENTC), University of Moratuwa***
 
-:briefcase: &nbsp; ***Working as a Data Scientist @ Axiata Digital Labs***
+:briefcase: &nbsp; ***Senior Data Scientist specialized in NLP, NLU, LLM, GraphML, GenAI @ Axiata Digital Labs<br />***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Assistant Lecturer @ SLIIT***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Former Machine Learning Consultant @ Fcode Labs***
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Public Speaker - Generative AI***
 
-:computer: &nbsp; ***Have hands on experience with Modeling, Training, Deploying Deep learning & Machine Learning algorithms related to NLP, Data Science, Computer Vision on Mobile Applications and Embedded Systems (TinyML)***
+:computer: &nbsp;***Have hands-on experience with Modeling, Training, and Deploying Deep Learning and Machine Learning algorithms related to NLP/NLU, Data Science, and Computer Vision on Mobile Applications and Embedded Systems (TinyML)***
 
   - Deep Learning: Proficient in building and fine-tuning neural network models.
   - Machine Learning: Skilled in developing machine learning algorithms.
@@ -35,7 +38,7 @@
   - Computer Vision: Knowledgeable in image processing and computer vision techniques.
   - Mobile Applications: Specialized in integrating AI into mobile apps.
   - Embedded Systems (TinyML): Expertise in deploying machine learning on resource-constrained systems.
-  - Large Language Models (LLMs): Highly Experienced in working with state-of-the-art LLMs such as GPT-3, LLaMA, Falcon, Mistral.
+  - Large Language Models (LLMs): Highly Experienced in working with state-of-the-art LLMs such as GPT-3, LLaMA, Falcon, and Mistral.
   - Generative AI: Proficient in generative AI techniques and their applications.
 
 #
