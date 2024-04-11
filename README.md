@@ -23,6 +23,7 @@
 
 > ### <sup> ABOUT ME </sup>
 
+:man_student: &nbsp; ***Persuing MSc in Big Data Analytics, Robert Gordon University***
 :man_student: &nbsp; ***Graduate in the Department of Electronic & Telecommunication Engineering (ENTC), University of Moratuwa***
 
 :briefcase: &nbsp; ***Senior Data Scientist specialized in NLP, NLU, LLM, GraphML, GenAI @ Axiata Digital Labs<br />***
