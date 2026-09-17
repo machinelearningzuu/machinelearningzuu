@@ -28,8 +28,8 @@
 I’m **Isuru Alagiyawanna**, currently the **Head of AI Engineering at Veracity Group**, where I lead multiple teams across **NLP**, **Computer Vision**, and **Data Analytics** to build AI products that actually ship and scale.
 
 I’m also the **Founder of Zuu Crew AI**, a hands-on ML & AI engineering academy focused on turning learners into **production-ready ML engineers** – not just tutorial finishers.  
-🌐 Zuu Crew: [https://zuucrew.ai](https://zuucrew.ai)  
-✉️ Zuu Crew email: **hi@zuucrew.ai**
+🌐 [https://zuucrew.ai](https://zuucrew.ai)  
+✉️ **hi@zuucrew.ai**
 
 Over the past years I’ve:
 
