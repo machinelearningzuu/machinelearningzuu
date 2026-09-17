@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Hey+there%2C+Isuru+here+👋;Head+of+AI+Engineering+%40+Veracity+Group;Founder+%40+Zuu+Crew+AI;Building+production-ready+ML+%26+Agentic+AI+systems)
 
 ### 👋 Head of AI Engineering @ Veracity Group  
-### 🎓 Founder @ Zuu Crew AI — Sri Lanka’s first ML focused Academy  
+### 🎓 Founder @ Zuu Crew AI, Sri Lanka’s first ML focused Academy  
 #### ⚡ LLMs • Agentic AI • Graph ML • Predictive ML • MLOps • Computer Vision
 
 <img src="https://user-images.githubusercontent.com/66903669/200928633-837ca340-99fc-4e95-8d39-7bd360ab9f1e.gif" width="200" height="200"/>
